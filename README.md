@@ -3,9 +3,9 @@
 </div>
 
 
-<p align="left">Olá, sou Sabrina, Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente sou estagiaria em Cloud & DevSecOps na empresa Compass UOL.
+<p align="left">Olá, sou Sabrina, Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente sou estagiária em Cloud & DevSecOps na empresa Compass UOL.
 Estou constantemente em evolução dos meus conhecimentos e buscando sempre novos desafios no mundo da tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-Completamente paixonada pelas tela de codígo e jogos!
+Completamente paixonada pelas tela de código e jogos!
 
 <h3 align="left" >Connect with me!<h3>
 <div align="left">
